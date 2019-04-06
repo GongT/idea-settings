@@ -1,0 +1,34 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-04-08T08:20:19</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.1.0.0</property>
+    <property name="modified">2017-05-12T15:14:03</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="26" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="WenQuanYi Micro Hei Mono" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="ee00" />
+    <option name="FILESTATUS_COPIED" value="" />
+    <option name="FILESTATUS_DELETED" value="ff0000" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff0000" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c2c2c2" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f05042" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f05042" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f05042" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="c2c2c2" />
+    <option name="FILESTATUS_MERGED" value="" />
+    <option name="FILESTATUS_MODIFIED" value="ee00" />
+    <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="d200" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8b00" />
+    <option name="FILESTATUS_RENAMED" value="" />
+    <option name="FILESTATUS_addedOutside" value="" />
+    <option name="FILESTATUS_modifiedOutside" value="b000" />
+  </colors>
+</scheme>

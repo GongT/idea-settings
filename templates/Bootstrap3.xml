@@ -1,0 +1,3 @@
+<templateSet group="Bootstrap3">
+  <template name="row" value="&lt;div class=&quot;row&quot;&gt;$END$&lt;/div&gt;" description="bs-row" toReformat="true" toShortenFQNames="true" />
+</templateSet>

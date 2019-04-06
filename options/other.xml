@@ -1,0 +1,120 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Ignore</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnnecessaryLabelJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:/data/DevelopmentRoot/work/koa-example/scripts/idea.style.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/nodejs/bin/node">
+      <version-cache version="11.4.0" last-modified="1544458865000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/data/DevelopmentRoot/canaan-creative/kendryte-ide/.release/nodejs/bin/node">
+      <version-cache version="8.11.2" last-modified="1526411650000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="WenQuanYi Micro Hei" />
+    <option name="fontScale" value="1.0833334" />
+    <option name="fontSize" value="18" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="224-255-249-255,,,255-196-207-255,,,255-250-0-255,,,0-119-186-255,,,0-132-255-255,,,66-72-78-255,,,0-133-255-255,,,0-213-255-255,,,255-252-0-255,,,255-244-0-255" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.37298387" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="bash&#10;bas" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="markdown&#10;ma&#10;bash&#10;console&#10;terminal" />
+    <property name="TrendingPluginsSearchHistory" value="bash" />
+    <property name="file.chooser.recent.files" value="/data/DevelopmentRoot/github.com/gongt/mirror-cache&#10;/data/AppData/config&#10;/data/DevelopmentRoot/temp-projects/LS" />
+    <property name="file.gist.reindex.count" value="2624" />
+    <property name="fileTypeChangedCounter" value="11" />
+    <property name="selected.color.option.type" value="MARKDOWN_NAVIGATOR.TEXT" />
+    <property name="settings.code.style.selected.tab.JSON" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.Markdown" value="Code" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.3.3333" />
+  </component>
+</application>

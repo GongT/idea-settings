@@ -1,0 +1,23 @@
+<templateSet group="JavaScript">
+  <template name="func" value="function $VAR$($ARGS$){&#10;    $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="f" value="($VAR$) =&gt; {&#10;    $END$&#10;}" description="short function" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="dfd" value="new Promise((resolve, reject) =&gt; {&#10;    const wrappedCallback = (err, data) =&gt; err ? reject(err) : resolve(data);&#10;    $END$&#10;})" description="new promise" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

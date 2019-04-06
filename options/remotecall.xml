@@ -1,0 +1,6 @@
+<application>
+  <component name="RemoteCall">
+    <option name="allowRequestsFromLocalhostOnly" value="false" />
+    <option name="portNumber" value="11223" />
+  </component>
+</application>

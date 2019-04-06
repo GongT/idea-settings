@@ -1,0 +1,59 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.build;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="install" type="Bash" />
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="html" type="PHP" />
+      <mapping ext="htm" type="PHP" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="php/a" type="PLAIN_TEXT" />
+      <mapping pattern="config/a" type="PLAIN_TEXT" />
+      <mapping pattern="quitUpdateAction" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="chrome" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="settings-repo/a" type="PLAIN_TEXT" />
+      <mapping pattern="kendryte-ide" type="PLAIN_TEXT" />
+      <mapping pattern="placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="filteringMap" type="PLAIN_TEXT" />
+      <mapping pattern="serialPort" type="PLAIN_TEXT" />
+      <mapping pattern="node/a" type="PLAIN_TEXT" />
+      <mapping pattern="packages" type="PLAIN_TEXT" />
+      <mapping pattern="create_media_rw" type="PLAIN_TEXT" />
+      <mapping pattern="typings/vinyl" type="PLAIN_TEXT" />
+      <mapping pattern="file-use-webdriver" type="PLAIN_TEXT" />
+      <mapping pattern="init-script/a" type="PLAIN_TEXT" />
+      <mapping pattern=".note" type="PLAIN_TEXT" />
+      <mapping pattern="7z" type="PLAIN_TEXT" />
+      <mapping pattern="user-order" type="PLAIN_TEXT" />
+      <mapping pattern="createMultiplex" type="PLAIN_TEXT" />
+      <mapping pattern="is-me-in-docker" type="PLAIN_TEXT" />
+      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
+      <mapping pattern="init-scripts" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="normalizeVinyl" type="PLAIN_TEXT" />
+      <mapping pattern="sadasd" type="PLAIN_TEXT" />
+      <mapping pattern="qualityChannel" type="PLAIN_TEXT" />
+      <mapping ext="timer" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="expect" type="PLAIN_TEXT" />
+      <mapping ext="ts\" type="PLAIN_TEXT" />
+      <mapping ext="wxss" type="PLAIN_TEXT" />
+      <mapping ext="t" type="PLAIN_TEXT" />
+      <mapping ext="s" type="PLAIN_TEXT" />
+      <mapping ext="socket" type="PLAIN_TEXT" />
+      <mapping ext="network" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
+    </extensionMap>
+  </component>
+</application>
