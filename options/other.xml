@@ -94,27 +94,81 @@
   </component>
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value="WenQuanYi Micro Hei" />
-    <option name="fontScale" value="1.0833334" />
+    <option name="fontScale" value="1.0" />
     <option name="fontSize" value="18" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ColorChooser.RecentColors" value="224-255-249-255,,,255-196-207-255,,,255-250-0-255,,,0-119-186-255,,,0-132-255-255,,,66-72-78-255,,,0-133-255-255,,,0-213-255-255,,,255-252-0-255,,,255-244-0-255" />
+    <property name="ColorChooser.RecentColors" value="0-0-0-14,,,0-0-0-28,,,242-0-65-255,,,230-230-230-255,,,0-255-0-255,,,42-42-42-255,,,94-94-94-255,,,216-216-216-255,,,191-191-191-255,,,204-204-204-255,,,0-102-127-255,,,52-132-248-255,,,0-255-10-255,,,0-100-0-255,,,255-100-0-255,,,100-0-0-255,,,0-84-255-255,,,255-233-0-255,,,255-163-0-255,,,168-153-0-255" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.37298387" />
-    <property name="Copy.OpenInEditor" value="true" />
-    <property name="InstalledPluginsSearchHistory" value="bash&#10;bas" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.78255033" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6401028" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="can&#10;unus&#10;unne&#10;short" />
+    <property name="KEYMAP" value="recent&#10;rece&#10;declar&#10;decla&#10;type dec" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JavaScript" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="false" />
+    <property name="LayoutCode.rearrangeEntriesTypeScript" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="cmake&#10;mongo&#10;mongodb&#10;editorc&#10;editor conf" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
-    <property name="SettingsSearchHistory" value="markdown&#10;ma&#10;bash&#10;console&#10;terminal" />
-    <property name="TrendingPluginsSearchHistory" value="bash" />
-    <property name="file.chooser.recent.files" value="/data/DevelopmentRoot/github.com/gongt/mirror-cache&#10;/data/AppData/config&#10;/data/DevelopmentRoot/temp-projects/LS" />
-    <property name="file.gist.reindex.count" value="2624" />
-    <property name="fileTypeChangedCounter" value="11" />
-    <property name="selected.color.option.type" value="MARKDOWN_NAVIGATOR.TEXT" />
-    <property name="settings.code.style.selected.tab.JSON" value="Tabs and Indents" />
-    <property name="settings.code.style.selected.tab.Markdown" value="Code" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value=";&#10;it log -1 --format='%s' | sed -E 's/.+#\s*//g')&#10;$&#10;statisticsWithBookAndSchool&#10;unfinishedMerchantOrder unfinishedSellBook" />
+    <property name="SettingsSearchHistory" value="term&#10;editor conf&#10;file type&#10;memor&#10;wat" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.45581692" />
+    <property name="SourceMapInspector.splitter" value="0.5608614" />
+    <property name="SplitFileEditor.Proportion" value="0.56241035" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="node&#10;idea&#10;types&#10;type" />
+    <property name="TrendingPluginsSearchHistory" value="awsome console&#10;Output Link" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="evlsprt3.191" value="17" />
+    <property name="export.settings.path" value="$USER_HOME$/settings.jar" />
+    <property name="file.chooser.recent.files" value="/data/DevelopmentRoot/github.com/gongt/idlebox/common/temp/node_modules/gulp&#10;/data/DevelopmentRoot/github.com/gongt/idlebox/common&#10;/tmp/asd&#10;/data/DevelopmentRoot/github.com/gongt/idlebox/common/temp/pnpm-local/node_modules/.bin/pnpm&#10;/data/DevelopmentRoot/github.com/gongt/idlebox/common/temp/node_modules/.mirror.service.gongt.me+59443/json-parse-better-errors/1.0.2/node_modules/json-parse-better-errors/index.js&#10;/data/DevelopmentRoot/canaan-creative/monorepo-kendryte-driver-collection&#10;/data/DevelopmentRoot/github.com/gongt/idlebox/common/temp/node_modules/typescript&#10;/data/DevelopmentRoot/canaan-creative/monorepo-kendryte-driver-collection/kendryte-standalone-sdk&#10;/mnt/home-data/DevelopmentRoot/VirtualMachine/include/container.schema.json5&#10;/data/DevelopmentRoot/VirtualMachine/include/container.schema.json&#10;/data/DevelopmentRoot/VirtualMachine/include/json-schema.json&#10;/data/DevelopmentRoot/VirtualMachine/include/containerSchema.json&#10;/data/DevelopmentRoot/VirtualMachine/include/oci-spec/config-schema.json&#10;/data/DevelopmentRoot/VirtualMachine/config-schema.json&#10;/data/DevelopmentRoot/projects/my-systemd-services&#10;/etc/npmrc&#10;/data/DevelopmentRoot/projects/7zip-bin-wrapper&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide-shell/node_modules/vinyl-fs/lib/dest/write-contents/write-symbolic-link.js&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide-shell/node_modules/gulp/bin/gulp.js&#10;/data/DevelopmentRoot/projects/export-all-in-one&#10;/data/DevelopmentRoot/projects/stillalive&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide-shell&#10;/data/DevelopmentRoot/projects/yarn-flat/bin.js&#10;/data/DevelopmentRoot/canaan-creative/electron-update&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide/.release/nodejs/bin/node&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide/extensions.kendryte&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide/my-scripts/start.sh&#10;/data/DevelopmentRoot/canaan-creative/kendryte-ide/my-scripts/build-env/help.js&#10;/data/DevelopmentRoot/projects/export-all-in-one/dist/index.js&#10;/data/DevelopmentRoot/projects/typescript-common-library" />
+    <property name="file.gist.reindex.count" value="1013174" />
+    <property name="fileTypeChangedCounter" value="155" />
+    <property name="find.popup.splitter" value="0.46521145" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="/data/DevelopmentRoot/projects/visual-studio-image-library/image-library/DIVTag/Asset-Panel_Div Tag_16x.svg" />
+    <property name="selected.color.option.type" value="JSON.PROPERTY_KEY" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
     <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.PowerShell" value="Spaces" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
-    <property name="ts.lib.d.ts.version" value="3.3.3333" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.45552367" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.52334154" />
+    <property name="vcs.log.details.splitter.proportion" value="0.8918919" />
+    <property name="webDeployment.deleteServersSilently" value="true" />
+    <property name="wordPress.support.wordPressPath" value="/data/microduino/skydream" />
   </component>
 </application>
